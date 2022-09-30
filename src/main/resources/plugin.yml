@@ -1,0 +1,7 @@
+name: Stelapass
+version: '${project.version}'
+main: fr.stelapass.stelapass.Stelapass
+api-version: 1.19
+depend: [ StelaMenuAPI ]
+authors: [ Plhume ]
+website: https://stelarys.fr
